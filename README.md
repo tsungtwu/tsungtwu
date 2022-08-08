@@ -1,23 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**tsungtwu/tsungtwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning OpenTelemetry
-- 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
 
 I'm Backend engineer and Guitarist🎸 from Taiwan
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning OpenTelemetry, SRE practice
 - 🎸 I'm swing guitarist🤘
+- 👨‍💻 &nbsp;Read more about me at &nbsp;<a href="https://www.linkedin.com/in/tsungtwu/">
+  <img  alt="Tsung Wu's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 - 💬 Ask me about DevOps/SRE/AWS/Python [here](https://github.com/tsungtwu/tsungtwu/issues)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsungtwu&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
