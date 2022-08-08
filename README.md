@@ -13,7 +13,7 @@ I'm Backend engineer and Guitarist🎸 from Taiwan
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsungtwu&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> 
