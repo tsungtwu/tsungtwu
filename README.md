@@ -6,7 +6,7 @@ I'm Backend engineer and Guitarist🎸 from Taiwan
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning OpenTelemetry, SRE practice
 - 🎸 I'm swing guitarist🤘
-- 👨‍💻 &nbsp;Read more about me at &nbsp;<a href="https://www.linkedin.com/in/tsungtwu/">
+- 👨‍💻 &nbsp;Read more about me at &nbsp;<a href="https://www.linkedin.com/in/tsungtwu/" target="_blank">
   <img  alt="Tsung Wu's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 - 💬 Ask me about DevOps/SRE/AWS/Python [here](https://github.com/tsungtwu/tsungtwu/issues)
 
