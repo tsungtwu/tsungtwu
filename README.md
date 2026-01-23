@@ -10,10 +10,6 @@ I'm Backend engineer and Guitarist🎸 from Taiwan
   <img  alt="Tsung Wu's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 - 💬 Ask me about DevOps/SRE/AWS/Python [here](https://github.com/tsungtwu/tsungtwu/issues)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsungtwu&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> 
